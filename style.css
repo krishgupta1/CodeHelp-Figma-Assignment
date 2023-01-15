@@ -1,0 +1,479 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;900&family=Raleway:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap');
+
+.logo{
+    position: absolute;
+width: 98px;
+height: 82px;
+left: 117px;
+top: 53px;
+
+/* background: url(Logo (1).png); */
+}
+
+nav{
+    text-decoration: none;
+}
+
+.nav-item1{
+    text-decoration: none;
+    position: absolute;
+    width: 51px;
+    height: 20px;
+    left: 485px;
+    top: 74px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    /* identical to box height, or 111% */
+    color: #4E5DC0;
+}
+
+.nav-item2{
+    text-decoration: none;
+    position: absolute;
+    width: 79px;
+    height: 20px;
+    left: 608px;
+    top: 74px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    /* identical to box height, or 111% */
+    color: #777C85;
+}
+
+.nav-item3{
+    text-decoration: none;
+    position: absolute;
+    width: 70px;
+    height: 20px;
+    left: 754px;
+    top: 74px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    /* identical to box height, or 111% */
+    /* Neutral 1 */
+    color: #777C85;
+}
+.button{
+    position: absolute;
+width: 109px;
+height: 24px;
+left: 1233px;
+top: 68px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+color: #FFFFFF;
+    position: absolute;
+    width: 165px;
+    height: 54px;
+    left: 1205px;
+    top: 54px;
+    border: 1px solid white;
+    color: white;
+    background: #4E5DC0;
+    border-radius: 5px;
+}
+
+.nav-item4{
+    text-decoration: none;
+    position: absolute;
+    width: 68px;
+    height: 20px;
+    left: 898px;
+    top: 74px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    /* identical to box height, or 111% */
+    /* Neutral 1 */
+    color: #777C85;
+}
+
+
+.hori-line{
+    position: absolute;
+    width: 40px;
+    height: 0px;
+    left: 488px;
+    top: 100px;
+    border: 1px solid #4E5DC0;
+}
+.hori-line1{
+    position: absolute;
+    width: 240px;
+    height: 0px;
+    left: 117px;
+    top: 345px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.card-1-p1{
+    position: absolute;
+    width: 312px;
+    height: 45px;
+    left: 117px;
+    top: 266px;
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 45px;
+    /* identical to box height */
+    color: #16171C;
+    font-stretch: 100;
+    font-variation-settings: 'GRAD' 122, 'slnt' 0, 'XTRA' 603, 'XOPQ' 96, 'YOPQ' 100, 'YTLC' 514, 'YTUC' 712, 'YTAS' 750, 'YTDE' -203, 'YTFI' 738;
+}
+
+.hori-line2{
+    position: absolute;
+    width: 250px;
+    height: 0px;
+    left: 117px;
+    top: 350px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.desc1{
+    position: absolute;
+    width: 573px;
+    height: 272px;
+    left: 117px;
+    top: 373px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 34px;
+    /* or 170% */
+    color: #000000;
+    opacity: 0.5;
+}
+
+.img1{
+    position: absolute;
+    width: 570px;
+    height: 427px;
+    left: 800px;
+    top: 275px;
+    background: url(img/277596439_305441681660411_1330675926711566595_n\ 1.png);
+    border-radius: 30px;
+}
+
+.img2{
+    position: absolute;
+    width: 500px;
+    height: 480px;
+    left: 117px;
+    top: 875px;
+    background: url(img/306967409_3243515309241386_6986689498272507103_n\ 1.png);
+    border-radius: 30px;
+}
+
+.card2-p2{
+    position: absolute;
+    width: 260px;
+    height: 45px;
+    left: 791px;
+    top: 872px;
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 45px;
+    /* identical to box height */
+    color: #16171C;
+    font-stretch: 100;
+    font-variation-settings: 'GRAD' 122, 'slnt' 0, 'XTRA' 603, 'XOPQ' 96, 'YOPQ' 100, 'YTLC' 514, 'YTUC' 712, 'YTAS' 750, 'YTDE' -203, 'YTFI' 738;
+}
+
+.hori-line2{
+    position: absolute;
+    width: 250px;
+    height: 0px;
+    left: 790px;
+    top: 950px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.desc2{
+    position: absolute;
+width: 462px;
+height: 306px;
+left: 791px;
+top: 979px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 34px;
+/* or 170% */
+
+
+color: #000000;
+opacity: 0.5;
+
+}
+
+
+.foot{
+    position: absolute;
+width: 1515px;
+height: 0px;
+left: 0px;
+top: 1461px;
+
+border: 1.5px solid #E1E2E4;
+}
+
+.img-logo{
+    position: absolute;
+width: 98px;
+height: 82px;
+left: 80px;
+top: 1553px;
+
+background: url(img/Logo\ \(1\)\ 1.png);
+}
+.address{
+    position: absolute;
+width: 92px;
+height: 32px;
+left: 435px;
+top: 1521px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+
+letter-spacing: 3px;
+text-transform: uppercase;
+
+color: #4E5DC0;
+}
+
+.desc-foot{
+    position: absolute;
+width: 332px;
+height: 96px;
+left: 435px;
+top: 1567px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+
+
+color: #999999;
+
+}
+
+.menu{
+    position: absolute;
+width: 57px;
+height: 32px;
+left: 925px;
+top: 1521px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+
+letter-spacing: 3px;
+text-transform: uppercase;
+
+color: #4E5DC0;
+}
+
+.fb{
+    position: absolute;
+width: 48px;
+height: 48px;
+left: 1210px;
+top: 1517px;
+border-radius: 50%;
+background: #4E5DC0;
+}
+
+.fb-img{
+    position: absolute;
+    width: 9.33px;
+    height: 16px;
+    left: 20px;
+    top: 15px;
+
+/* background: #; */
+}
+
+.twitter{
+    position: absolute;
+width: 48px;
+height: 48px;
+left: 1266px;
+top: 1517px;
+border-radius: 50%;
+background: #4E5DC0;
+}
+
+.twitter-img{
+    position: absolute;
+width: 16px;
+height: 13px;
+left: 16px;
+top: 16px;
+
+/* background: #FFFFFF; */
+}
+
+.insta{
+    position: absolute;
+width: 48px;
+height: 48px;
+left: 1322px;
+top: 1517px;
+border-radius: 50%;
+background: #4E5DC0;
+}
+
+.insta-img
+{
+    position: absolute;
+width: 16px;
+height: 16px;
+left: 16px;
+top: 15px;
+
+/* background: #FFFFFF; */
+}
+
+.privacy{
+    position: absolute;
+width: 225px;
+height: 32px;
+left: 70px;
+top: 1681px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+
+letter-spacing: 3px;
+text-decoration-line: underline;
+text-transform: uppercase;
+
+color: #4E5DC0;
+}
+
+.desc-pri{
+    position: absolute;
+width: 209px;
+height: 64px;
+left: 70px;
+top: 1727px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+
+
+color: #999999;
+}
+
+.email{
+    position: absolute;
+width: 61px;
+height: 32px;
+left: 435px;
+top: 1703px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+
+letter-spacing: 3px;
+text-transform: uppercase;
+
+color: #4E5DC0;
+}
+
+.email-id{
+    position: absolute;
+width: 185px;
+height: 32px;
+left: 435px;
+top: 1749px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+
+
+color: #999999;
+}
+
+.menu-item{
+    position: absolute;
+width: 69px;
+height: 128px;
+left: 925px;
+top: 1567px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+
+
+color: #999999;
+
+}
+
+.about{
+    color:rgba(78, 93, 192, 0.8)
+}
+
+.us{
+    color: #4E5DC0;
+}
